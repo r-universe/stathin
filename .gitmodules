@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ggm"]
 	path = ggm
-	url = https://github.com/cran/ggm
+	url = https://github.com/stathin/ggm
