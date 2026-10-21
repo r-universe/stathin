@@ -5,3 +5,6 @@
 [submodule "ggm"]
 	path = ggm
 	url = https://github.com/stathin/ggm
+[submodule "ggmGraphEditor"]
+	path = ggmGraphEditor
+	url = https://github.com/stathin/ggmgrapheditor
